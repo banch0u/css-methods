@@ -1,0 +1,13 @@
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.small{
+    font-size: 10px;
+}
+.greenButton{
+    background-color: green;
+    color: white;
+}
